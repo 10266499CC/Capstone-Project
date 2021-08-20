@@ -1,2 +1,2 @@
 # Capstone-Project
-Using the Open University Learning Analytics dataset
+Predicting Student Failure and Dropout using the Open University Learning Analytics dataset
